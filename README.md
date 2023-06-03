@@ -1,6 +1,7 @@
 <h1 align="center">Merhaba Ben Yusuf Can Yanıkcı</h1>
 <h3 align="center">Backend / Frontend / Mobile / Developer</h3>
-<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufcanyanikci" alt="yusufcanyanikci" />< /a> </p>
+![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e5 (1)](https://github.com/yusufcanyanikci/yusufcanyanikci/assets/121056717/53021e66-bb76-4c31-9a21-e6136f6a122e)
+
 
 - Web programlamada bu proje üstünde çalışıyorum. [Asp.net MVC Books Site](https://github.com/yusufcanyanikci/ASP-MVC-BOOKS-CONTACT)
 
