@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba Ben Yusuf Can Yanıkcı</h1>
 <h3 align="center">Backend / Frontend / Mobile / Developer</h3>
 
-
 - Web programlamada bu proje üstünde çalışıyorum. [Asp.net MVC Books Site](https://github.com/yusufcanyanikci/ASP-MVC-BOOKS-CONTACT)
 
 - Mobil programlamada üstünde çalışıyorum. [Flutter TodoList and Detail Pages](https://github.com/yusufcanyanikci/FLUTTER-DETAY-SAYFASI-MODEL-AKTIVITESI)
@@ -9,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusufcan-yanıkcı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufcan-yanıkcı" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yusufcanyankc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusufcanyankc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@yusufcanyankc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yusufcanyankc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
