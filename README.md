@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Yusuf Can Yanıkcı</h1>
-<h3 align="center">Backend / Frontend / Mobile / Developer</h3>
+<h3 align="center">Backend / Frontend / Mobile  Developer</h3>
 
 <div align="center">
     <img style="display: block;-webkit-user-select: none; height: 520px; width: 670px; background-color: hsl(0, 0%, 90%);"
