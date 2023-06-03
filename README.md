@@ -9,7 +9,7 @@
 <h3 align="left">İletişim</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusufcan-yanıkcı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufcan-yanıkcı" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@yusufcanyankc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yusuf Can Yanıkcı" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@yusufcanyankc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC4p7z65COObgCjU8Ct9E0iw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Bildiğim Dil ve Programlar</h3>
