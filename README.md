@@ -1,6 +1,8 @@
 <h1 align="center">Merhaba Ben Yusuf Can Yanıkcı</h1>
 <h3 align="center">Backend / Frontend / Mobile / Developer</h3>
 
+![3otv (2)](https://github.com/yusufcanyanikci/yusufcanyanikci/assets/121056717/b9ee3cc8-cc38-4f1e-a6a5-71d171a41c27)
+
 - Web programlamada bu proje üstünde çalışıyorum. [Asp.net MVC Books Site](https://github.com/yusufcanyanikci/ASP-MVC-BOOKS-CONTACT)
 
 - Mobil programlamada üstünde çalışıyorum. [Flutter TodoList and Detail Pages](https://github.com/yusufcanyanikci/FLUTTER-DETAY-SAYFASI-MODEL-AKTIVITESI)
