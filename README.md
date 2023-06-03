@@ -8,7 +8,6 @@
 - Mobil programlamada bu proje üstünde çalışıyorum. [Flutter TodoList and Detail Pages](https://github.com/yusufcanyanikci/FLUTTER-DETAY-SAYFASI-MODEL-AKTIVITESI)
 
 <h3 align="left">İletişim</h3>
-- 📫 Gmail **yusufcanyanikcii@gmail.com**
 <p align="left">
 <a href="https://www.linkedin.com/in/yusufcan-yan%C4%B1kc%C4%B1-553685251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufcan-yanıkcı" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@yusufcanyankc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC4p7z65COObgCjU8Ct9E0iw" height="30" width="40" /></a>
