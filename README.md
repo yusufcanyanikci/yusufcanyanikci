@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Merhaba Ben Yusuf Can Yanıkcı</h1>
 <h3 align="center">Backend / Frontend / Mobile / Developer</h3>	
