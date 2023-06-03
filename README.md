@@ -1,6 +1,8 @@
 <h1 align="center">Merhaba Ben Yusuf Can Yanıkcı</h1>
 <h3 align="center">Backend / Frontend / Mobile / Developer</h3>
 
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="908" height="507">
+
 - Web programlamada bu proje üstünde çalışıyorum. [Asp.net MVC Books Site](https://github.com/yusufcanyanikci/ASP-MVC-BOOKS-CONTACT)
 
 - Mobil programlamada bu proje üstünde çalışıyorum. [Flutter TodoList and Detail Pages](https://github.com/yusufcanyanikci/FLUTTER-DETAY-SAYFASI-MODEL-AKTIVITESI)
