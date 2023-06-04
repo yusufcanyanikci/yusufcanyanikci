@@ -25,7 +25,7 @@ Pages](https://github.com/yusufcanyanikci/FLUTTER-DETAY-SAYFASI-MODEL-AKTIVITESI
 
 <h3 align="left">İletişim</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yusufcan-yanıkcı" target="blank"
+  <a href="https://www.linkedin.com/in/yusufcan-yan%C4%B1kc%C4%B1-553685251/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
