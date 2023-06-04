@@ -34,7 +34,7 @@ Pages](https://github.com/yusufcanyanikci/FLUTTER-DETAY-SAYFASI-MODEL-AKTIVITESI
       width="40"
   /></a>
   <a
-    href="https://www.youtube.com/c/https://www.youtube.com/channel/uc4p7z65coobgcju8ct9e0iw"
+    href="https://www.youtube.com/channel/UC4p7z65COObgCjU8Ct9E0iw"
     target="blank"
     ><img
       align="center"
