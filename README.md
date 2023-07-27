@@ -19,10 +19,6 @@
 - Web programlamada bu proje üstünde çalışıyorum. [Asp.net MVC Books
 Site](https://github.com/yusufcanyanikci/ASP-MVC-BOOKS-CONTACT) 
 
-
-- Mobil programlamada bu proje üstünde çalışıyorum. [Flutter TodoList and Detail
-Pages](https://github.com/yusufcanyanikci/FLUTTER-DETAY-SAYFASI-MODEL-AKTIVITESI)
-
 <h3 align="left">İletişim</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yusufcan-yan%C4%B1kc%C4%B1-553685251/" target="blank"
